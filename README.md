@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am a freshman at Bilkent
 <!--
 **Oguzhan-AYDIN1/Oguzhan-AYDIN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
